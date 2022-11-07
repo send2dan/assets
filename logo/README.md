@@ -6,4 +6,4 @@ Use code like:
 
 Rendered:
 
-# NameOfPackage  <a alt="NHS-R Community's logo" href='https://nhsrcommunity.com/'><img src=' https://raw.githubusercontent.com/nhs-r-community/assets/main/logo/nhsr-logo.svg' align="right" height="80" /></a>
+# NameOfPackage  <a alt="NHS-R Community's logo" href='https://nhsrcommunity.com/'><img src='https://raw.githubusercontent.com/nhs-r-community/assets/main/logo/nhsr-logo.svg' align="right" height="80" /></a>
