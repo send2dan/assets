@@ -1,9 +1,7 @@
 project:
-  title: "break-slides"
   render:
     - "*.qmd"
     - "!*.md"
-author: "Zoë Turner"
 format:
   revealjs:
     theme: [default, nhsr-quarto.scss]
