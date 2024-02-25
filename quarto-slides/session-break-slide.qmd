@@ -1,16 +1,12 @@
 ---
-title: "Introduction to R and Rstudio"
-subtitle: "Session - Break"
-execute: 
-  echo: false
-  eval: true
+  title: "Session - Break"
 ---
+
+<!-- Settings for this slide are generated from the `_quarto.yml` document which apply to all `qmd` files stored in this repository. -->
 
 ```{r}
 #| label: "libs"
 #| include: false
-#| eval: true
-#| echo: false
 library(countdown)
 ```
 
